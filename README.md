@@ -15,3 +15,10 @@ Accessibility refactoring for Horiseon Social Solution Services, Inc.
 -All code condensed and cleaned up<br>
 -All CSS styling condensed and altered to match new HTML tags (section, aside, footer, etc.)<br>
 -Single quotations added to all instances of Calibri in CSS font-families that were missing<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+![alternative text](Horiseon-refactoring-final-photo.png "Final screenshot of full site")
