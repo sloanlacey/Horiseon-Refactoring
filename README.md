@@ -1,8 +1,8 @@
-# Horiseon-Refactoring
+# Horiseon Code Refactoring for Accessibility
+
 Accessibility refactoring for Horiseon Social Solution Services, Inc.
 
-# Changes-to-Original-Website
-
+## Horiseon Code Refactoring for Accessibility
 -Added a title to the page ("Horiseon Social Solution Services, Inc.")<br>
 -Added a header tag to contain the elements of the header portion of the site<br>
 -Removed div tag from the header and replaced it with a nav tag<br>
@@ -20,5 +20,4 @@ Accessibility refactoring for Horiseon Social Solution Services, Inc.
 <br>
 <br>
 <br>
-<br>
-![alternative text](Horiseon-refactoring-final-photo.png "Final screenshot of full site")
+![alternative text](Horiseon-refactoring-final-photo.png "Final site screen shot")
